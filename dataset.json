@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Paterson in the Mid-Atlantic with a population of over 159k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Paterson, New Jersey, US",
+  "export_job_id": "ccf8d432-f0a2-4aa0-8079-a2bec630af15",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 329804,
+  "location_name": "Paterson",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-paterson-new-jersey-us-sample-329804",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/329804/beamstation_329804_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 105,
+  "sample_sha256": "037dd33bacccb2079991bd701080fc893b72f454ce52ad07c6a83d2279f9fb45",
+  "sample_size_bytes": 405534,
+  "total_records": 1052,
+  "updated_at": "2026-04-07T10:39:16.660697+00:00"
+}
