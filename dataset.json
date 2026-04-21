@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Local dining market data for Paterson in the Mid-Atlantic with a population of over 159k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Paterson, New Jersey, US",
-  "export_job_id": "64487ee9-401c-4d31-a85f-9a3d22f04aa5",
+  "export_job_id": "face9652-05c2-4c5e-b5ef-0aa6fadf1f32",
   "github_org": "Beamstation-Datasets",
   "id_short": 329804,
   "location_name": "Paterson",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-paterson-new-jersey-us-sample-329804",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/329804/beamstation_329804_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_pct": 9.93,
-  "sample_records": 104,
-  "sample_sha256": "c5537a4aaf5f86cd16058825a1159bf3187d33d205c37b823b5729ac512de6d4",
-  "sample_size_bytes": 383595,
-  "total_records": 1047,
-  "updated_at": "2026-04-14T10:32:45.205120+00:00"
+  "sample_records": 94,
+  "sample_sha256": "99d47736a72b1dcb58b8f9b2f05314fa3e92784b20ae445108c3c5f9cad87b03",
+  "sample_size_bytes": 346269,
+  "total_records": 947,
+  "updated_at": "2026-04-21T10:47:32.101120+00:00"
 }
