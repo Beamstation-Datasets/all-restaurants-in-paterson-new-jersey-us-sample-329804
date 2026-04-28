@@ -1,12 +1,12 @@
 {
-  "export_job_id": "face9652-05c2-4c5e-b5ef-0aa6fadf1f32",
+  "export_job_id": "991d08c7-9365-4b81-aeac-793d3eb034cc",
   "id_short": 329804,
-  "published_at": "2026-04-21T19:17:48Z",
+  "published_at": "2026-04-28T19:06:01Z",
   "repo_name": "all-restaurants-in-paterson-new-jersey-us-sample-329804",
   "sample_asset_name": "beamstation_329804_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/329804/beamstation_329804_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_records": 94,
-  "sample_sha256": "99d47736a72b1dcb58b8f9b2f05314fa3e92784b20ae445108c3c5f9cad87b03",
-  "sample_size_bytes": 346269,
-  "total_records": 947
+  "sample_sha256": "5e205fe0c8d9a4db19f5bd60d14ccb57328af913e430eb72f466df8cc4a935be",
+  "sample_size_bytes": 339508,
+  "total_records": 945
 }
